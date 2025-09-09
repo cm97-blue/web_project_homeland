@@ -50,7 +50,7 @@
     box-sizing: border-box;
   }
 
-  .header__intro {
+  .intro__header {
     display: flex;
     justify-content: flex-start;
 
@@ -160,7 +160,7 @@
     box-sizing: border-box;
   }
 
-  .header__intro {
+  .intro__header {
     margin-left: 24px;
     margin-top: 90px;
     max-width: 720px;
@@ -262,7 +262,7 @@
     box-sizing: border-box;
   }
 
-  .header__intro {
+  .intro__header {
     margin-top: 64px;
     margin-left: 16px;
     height: 1033px;
