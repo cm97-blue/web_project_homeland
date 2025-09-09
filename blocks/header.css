@@ -50,7 +50,7 @@
     box-sizing: border-box;
   }
 
-  .intro__header {
+  .header__intro {
     display: flex;
     justify-content: flex-start;
 
@@ -63,7 +63,7 @@
     height: 607px;
     box-sizing: border-box;
   }
-  .intro__title {
+  .header__item {
     margin-top: 0;
     margin-bottom: 40px;
     font-family: "inter-bold";
@@ -73,7 +73,7 @@
     line-height: 58px;
     font-size: 54px;
   }
-  .intro__paragraph {
+  .header__paragraph {
     font-family: "inter-regular";
     line-height: 34px;
     font-style: normal;
@@ -84,7 +84,7 @@
     margin-top: 40px;
     margin-bottom: 0px;
   }
-  .intro__author {
+  .header__author {
     text-align: right;
     font-family: "inter-regular";
     font-style: normal;
@@ -94,7 +94,7 @@
     max-width: 732px;
     height: 33.91px;
   }
-  .intro__city {
+  .header__city {
     font-family: "inter-regular";
     font-style: normal;
     max-width: 722px;
@@ -160,14 +160,14 @@
     box-sizing: border-box;
   }
 
-  .intro__header {
+  .header__intro {
     margin-left: 24px;
     margin-top: 90px;
     max-width: 720px;
     height: 573px;
     box-sizing: border-box;
   }
-  .intro__title {
+  .header__item {
     font-style: bold;
     max-width: 707px;
     height: 147px;
@@ -175,7 +175,7 @@
     font-size: 45px;
     line-height: 49px;
   }
-  .intro__paragraph {
+  .header__paragraph {
     max-width: 720px;
     height: 136px;
     font-size: 24px;
@@ -184,7 +184,7 @@
     margin-top: 50px;
     margin-bottom: 0px;
   }
-  .intro__author {
+  .header__author {
     margin-top: 8px;
     margin-bottom: 0;
     font-weight: 400;
@@ -194,7 +194,7 @@
     height: 34px;
     text-align: right;
   }
-  .intro__city {
+  .header__city {
     margin-top: 32px;
     margin-bottom: 0;
     max-width: 720px;
@@ -262,14 +262,14 @@
     box-sizing: border-box;
   }
 
-  .intro__header {
+  .header__intro {
     margin-top: 64px;
     margin-left: 16px;
     height: 1033px;
     width: 288px;
     box-sizing: border-box;
   }
-  .intro__title {
+  .header__item {
     width: 288px;
     height: 175px;
     font-weight: 900;
@@ -277,7 +277,7 @@
     line-height: 35px;
     margin-bottom: 0;
   }
-  .intro__paragraph {
+  .header__paragraph {
     width: 288px;
     height: 300px;
     font-size: 24px;
@@ -285,7 +285,7 @@
     font-weight: 400;
     margin-top: 40px;
   }
-  .intro__author {
+  .header__author {
     margin-top: 40px;
     font-weight: 400;
     font-size: 24px;
@@ -295,7 +295,7 @@
     margin-bottom: 0;
     text-align: right;
   }
-  .intro__city {
+  .header__city {
     margin-top: 32px;
     width: 288px;
     height: 442px;
